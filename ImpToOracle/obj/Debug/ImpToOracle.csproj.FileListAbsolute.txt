@@ -1,0 +1,38 @@
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\bin\Debug\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\bin\Debug\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\OutPut\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\OutPut\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.MyForm.resources
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.MyForm.resources
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\OutPut\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\监管系统数据入库\ImpToOracle\OutPut\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.MyForm.resources
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\OutPut\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\土地市场监管--system\更新数据入库\ImpToOracle\OutPut\ImpToOracle.pdb
+C:\Documents and Settings\Administrator\桌面\2012.6.1\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.exe
+C:\Documents and Settings\Administrator\桌面\2012.6.1\土地市场监管--system\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.pdb
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\OutPut\ImpToOracle.exe
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\OutPut\ImpToOracle.pdb
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.csprojResolveAssemblyReference.cache
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.MyForm.resources
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.Properties.Resources.resources
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.csproj.GenerateResource.Cache
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.csproj.CoreCompileInputs.cache
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.exe
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.pdb
+E:\work\20180117\内蒙古自治区土地利用动态监测系统\内蒙古自治区土地利用动态监测系统\数据获取代码\C#版数据更新\更新数据入库\ImpToOracle\ImpToOracle\obj\Debug\ImpToOracle.Form2.resources
